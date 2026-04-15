@@ -30,7 +30,7 @@ The process with the highest ID becomes the coordinator.
 5. Highest active process becomes coordinator
 
 ## Output
-![Output](bully_algorithm/bully algo.png)
+![Output](DCC-LCA-2/bully_algorithm/bully algo.png)
 
 ## Conclusion
 The algorithm successfully elects a new coordinator after failure.
